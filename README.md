@@ -1,2 +1,2 @@
-# Python-test
-My python test repository 
+# Тест Python
+В этом репозитории я тестирую Python 🐍
