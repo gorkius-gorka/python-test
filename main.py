@@ -10,4 +10,3 @@ try:
 	print(random_number)
 except ValueError:
 	print("Ошибка приведения типов")
-
